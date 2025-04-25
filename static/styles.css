@@ -1,0 +1,7 @@
+body {
+    background-color: #1e1f20; /* Dark gray background */
+    color: #ffffff;           /* White text */
+    border-color: #1400f5;
+    margin: 0;                /* Remove default margin */
+    font-family: Arial, sans-serif; /* Optional: Set a default font */
+}
